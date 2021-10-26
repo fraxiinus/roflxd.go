@@ -1,0 +1,6 @@
+github.com/1lann/countwriter v0.0.0-20160329163811-702ae82f0549 h1:XIK4aItep2BM2XLaIHys7e7czbifJ1e4aJi9/ZvSANs=
+github.com/1lann/countwriter v0.0.0-20160329163811-702ae82f0549/go.mod h1:PFWto1zi2WlEPRVOz4fdeFrIMV0dCx+SlUAKYgmfB9A=
+github.com/1lann/lol-replay v0.0.0-20200922053444-84c5a593614e h1:hH5X25VEzBrmd7zhoxHabARfigx1gpJDGQREGimx8tE=
+github.com/1lann/lol-replay v0.0.0-20200922053444-84c5a593614e/go.mod h1:OS5MUkBiNfYGMqwkXEriUr7XhB55hs3wr5MMW5+Q98U=
+github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7 h1:xoIK0ctDddBMnc74udxJYBqlo9Ylnsp1waqjLsnef20=
+github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7/go.mod h1:YARuvh7BUWHNhzDq2OM5tzR2RiCcN2D7sapiKyCel/M=
