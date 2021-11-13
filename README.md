@@ -1,4 +1,4 @@
-# ROFLXD - ROFL eXtension Debugger
+# ROFLXD.GO - ROFL eXtract Data for GO-LANG
 
 **This is an incomplete project.** The original goal of this project was to convert [GLR replays](https://github.com/1lann/lol-replay) to a form that was playable by the League of Legends client. That goal ended up being unachievable so this project was shelved.
 
