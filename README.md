@@ -1,6 +1,12 @@
-# ROFLXD.GO - ROFL eXtract Data for GO-LANG
+# roflxd.go - ROFL eXtract Data (Golang vers.)
 
-**This is an incomplete project.** The original goal of this project was to convert [GLR replays](https://github.com/1lann/lol-replay) to a form that was playable by the League of Legends client. That goal ended up being unachievable so this project was shelved.
+[Go back to roflxd overview](https://github.com/fraxiinus/roflxd)
+
+## About
+
+**This is an incomplete project.** The original goal of this project was to convert [GLR replays](https://github.com/1lann/lol-replay) to a form that was playable by the League of Legends client. That goal ended up being unachievable so the project was shelved.
+
+The ROFL parsing ability of the project is still useful, so this project is now a part of roflxd.
 
 See original discussions on [ReplayBook](https://github.com/fraxiinus/ReplayBook/discussions/75).
 
